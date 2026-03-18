@@ -43,7 +43,6 @@ PyMuPDF를 사용해 PDF를 열고, 기존 책갈피를 제거한 뒤
 
 * **Language**: Python
 * **Library**: PyMuPDF (`fitz`)
-* **Environment**: Local / Office Work Automation Script
 
 ---
 
